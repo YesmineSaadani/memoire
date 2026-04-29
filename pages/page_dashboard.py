@@ -1,5 +1,5 @@
 """pages/page_dashboard.py — Page 3 : Tableau de Bord"""
-
+# -*- coding: utf-8 -*-
 import streamlit as st
 import plotly.graph_objects as go
 import numpy as np
