@@ -1,5 +1,5 @@
 """pages/page_stress.py — Page 2 : Stress Simulator"""
-
+# -*- coding: utf-8 -*-
 import streamlit as st
 import numpy as np
 import plotly.graph_objects as go
