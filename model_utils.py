@@ -4,7 +4,7 @@ model_utils.py
 Coefficients du modèle Probit Stage 2 et du modèle macro AR(1).
 Ces valeurs viennent directement des résultats de votre pipeline.
 """
-
+# -*- coding: utf-8 -*-
 import numpy as np
 from scipy.stats import norm
 
