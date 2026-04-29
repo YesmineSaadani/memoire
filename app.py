@@ -13,7 +13,7 @@ Pages :
   2. Stress Simulator  — sliders macro → NPL + coussin capital en temps réel
   3. Tableau de Bord   — résultats de la thèse, scorecard, ROC curve
 """
-
+# -*- coding: utf-8 -*-
 import streamlit as st
 
 st.set_page_config(
